@@ -1,5 +1,5 @@
 # kotlin-htmx
-Seeing how well copilot does with kotlin our of curiosity,
+Seeing how well copilot does with kotlin because I was curious,
 also messing with [htmx](https://htmx.org/).  
 I used vscode on linux and installed the kotlin compiler manually.
 
